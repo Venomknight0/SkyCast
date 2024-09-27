@@ -1,1 +1,7 @@
-pip install pyowm os pytz streamlit matplotlib datetime plotly
+pyowm 
+os 
+pytz 
+streamlit 
+matplotlib 
+datetime 
+plotly
