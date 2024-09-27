@@ -9,7 +9,7 @@ import plotly.graph_objects as go
 import plotly.express as px
 
 
-API_key = <yourAPIkey>
+API_key = "ec609a5c47097afacb00efe6ba931b7d"
 owm = pyowm.OWM(API_key)
 mgr=owm.weather_manager()
 
