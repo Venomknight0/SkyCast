@@ -1,5 +1,4 @@
 pyowm 
-os 
 pytz 
 streamlit 
 matplotlib 
