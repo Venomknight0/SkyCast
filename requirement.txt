@@ -1,4 +1,3 @@
-pip install {Follwing Modules}
 pyowm 
 pytz 
 streamlit 
